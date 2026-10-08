@@ -54,3 +54,6 @@ This repository presents the project as a portfolio case study. Source data and 
 
 ## Team
 Ariana Li, Qunfeng Zhou, Mei Qiong Xue, and Jinyi Yuan.
+
+## My Contribution
+I built and tested predictive models for donation probability and donation amount, using the results to support the team’s donor-targeting strategy.
