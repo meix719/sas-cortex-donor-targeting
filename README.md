@@ -1,5 +1,6 @@
 # NYU SPS × SAS Cortex Challenge: Donor Targeting
 <img src="reports/images/cortex-participant.png" alt="Cortex Challenge participant badge" width="180">
+
 ## Overview
 This team project used predictive modeling in the SAS Cortex fundraising simulation to select donors for a promotional mug campaign. Our goal was to maximize operating surplus by balancing expected donations with campaign expenses.
 
