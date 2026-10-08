@@ -41,6 +41,9 @@ Our presentation reported the following simulation dashboard results:
 
 Operating surplus represents total donations minus expenses. These are simulation results, not verified real-world fundraising outcomes or the incremental gain caused by outreach.
 
+## Results Dashboard
+![SAS Cortex challenge simulation results](images/cortex-results.png)
+
 ## Business Takeaway
 The donors most likely to give are not necessarily the best outreach targets. Effective targeting considers how much outreach is expected to increase donations and whether that increase exceeds campaign costs.
 
