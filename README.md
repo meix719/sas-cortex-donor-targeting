@@ -3,6 +3,9 @@
 ## Overview
 This team project used predictive modeling in the SAS Cortex fundraising simulation to select donors for a promotional mug campaign. Our goal was to maximize operating surplus by balancing expected donations with campaign expenses.
 
+## Achievement
+Our team placed **2nd on the final leaderboard** in the 2026 NYU SPS × SAS Cortex Challenge.
+
 ## Business Question
 Which donors should receive a promotional mug to maximize total donations minus campaign expenses?
 
